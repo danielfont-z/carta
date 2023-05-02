@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <plato tipo="entrante">
+    <nombre>Sepia a la plancha</nombre>
+    <precio>10 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Pan con jamón ibérico</nombre>
+    <precio></precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Huevos revueltos</nombre>
+    <precio>7 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Pulpo a la brasa</nombre>
+    <precio>14 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Pimientos asados</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Yemas de espárragos</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Coca-Cola</nombre>
+    <precio>2,75€</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Fanta</nombre>
+    <precio>2,75€</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Clara</nombre>
+    <precio>3 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Estrella Galicia</nombre>
+    <precio>3,25€</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Agua</nombre>
+    <precio>2 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Tonica 2,75€ €</nombre>
+    <precio></precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="combinado">
+    <nombre>Butifarra</nombre>
+    <precio></precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="combinado">
+    <nombre>Hamburguesa</nombre>
+    <precio></precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="combinado">
+    <nombre>Paella</nombre>
+    <precio></precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="combinado">
+    <nombre>Solomillo</nombre>
+    <precio></precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="combinado">
+    <nombre>Ensalada</nombre>
+    <precio></precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="combinado">
+    <nombre>Canelones</nombre>
+    <precio></precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Yogurt</nombre>
+    <precio>2,50 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Helado</nombre>
+    <precio>3,10 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Natillas</nombre>
+    <precio>2,50 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Flan</nombre>
+    <precio>3,10 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Fruta</nombre>
+    <precio>1,80 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Café</nombre>
+    <precio>1,60 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+</menu>

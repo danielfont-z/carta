@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-image: url("/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo{
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .hidden{
+        display: none;
+    }
+    
+}
